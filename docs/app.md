@@ -38,3 +38,5 @@ o nome do podcast, nome do epsódio, imagem de capa e link
 ]
 
 ```
+
+GET: retorna lista de episódios baseados em um parametro enviado pelo cliente do nom do podcast
